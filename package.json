@@ -1,0 +1,23 @@
+{
+  "name": "extendedtesttypescript",
+  "version": "1.0.0",
+  "description": "this is a extended test for sahi web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js",
+    "webdriver-update": "webdriver-manager update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fredyrydfe@bitbucket.org/fredyrydfe/repositorio-yuxi.git"
+  },
+  "author": "Fredy Saldarriaga Lema",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/fredyrydfe/repositorio-yuxi#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jasmine": "^2.8.8",
+    "@types/node": "^10.5.5",
+    "protractor": "^5.4.0"
+  }
+}

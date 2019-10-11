@@ -1,0 +1,10 @@
+{
+    "right": {
+        "username": "test",
+        "password": "secret"
+    },
+    "wrong": {
+        "username": "test1",
+        "password": "secret1"
+    }
+}

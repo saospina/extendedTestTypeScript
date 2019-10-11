@@ -1,0 +1,10 @@
+{  
+    "username": "mfernanda",
+    "password": "abcd1234*",
+    "password2": "abcd1234*",
+    "gender": "female",
+    "address": "street 10a #40",
+    "billingAddress": "Av 52 street", 
+    "state": "Kerala",
+    "termsAndCondition": true
+}
